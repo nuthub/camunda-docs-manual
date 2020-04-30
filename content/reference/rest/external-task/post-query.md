@@ -115,7 +115,7 @@ A JSON object with the following properties:
     <td>Filter by the id of the process definition that an external task belongs to.</td>
   </tr>
   <tr>
-    <td>tenantIdIn</td>
+    <td>tenantId</td>
     <td>Filter by a comma-separated list of tenant ids. An external task must have one of the given tenant ids.</td>
   </tr>
   <tr>
